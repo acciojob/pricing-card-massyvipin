@@ -1,1 +1,37 @@
-/*  your css code here. If applicable */
+#layout{
+	width:400px;
+	height:500px;
+	background-color:rgb(204 204 204);
+	margin:120px;
+	border-radius:10px;
+	box-shadow:inset;
+}
+img{
+	width:80%;
+	height:40%;
+	margin-left:40px;
+	margin-right:40px;
+	margin-top:40px;
+}
+h1{
+	text-align:center;
+	margin-top:5px;
+	font-style:bold;
+	font-size:50px;
+	margin-bottom:5px;
+}
+p{
+	text-align:center;
+	margin:0px;
+	font-size:20px;
+}
+button{
+	background-color:indianred;
+	margin-left:165px;
+	margin-top: 10px;
+	color:white;
+	border-radius:5px;
+	padding:10px;
+	
+	
+}
